@@ -3,7 +3,7 @@
     You'll provide the command as well as what it does. 
 */
 
-//////////////////PROBLEM 1////////////////////
+
 /*
     Create a variable called 'gitDefinition'.
     It should be a string containing your best definition of what Git is.
